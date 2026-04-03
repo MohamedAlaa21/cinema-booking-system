@@ -417,8 +417,8 @@ ORDER  BY occupancy_pct DESC;
 
 ### 🌟 If you found this project helpful, please give it a star!
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/cinema-booking-system?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/cinema-booking-system?style=social)
+![GitHub stars](https://img.shields.io/github/stars/MohamedAlaa21/cinema-booking-system?style=social)
+![GitHub forks](https://img.shields.io/github/forks/MohamedAlaa21/cinema-booking-system?style=social)
 
 **Built with ❤️ and lots of SQL**
 
